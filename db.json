@@ -17,24 +17,9 @@
   ],
   "techs": [
     {
-      "id": 1,
-      "firstName": "John",
-      "lastName": "Doe"
-    },
-    {
-      "id": 2,
-      "firstName": "Sam",
-      "lastName": "Smith"
-    },
-    {
-      "id": 3,
-      "firstName": "Sara",
-      "lastName": "Wilson"
-    },
-    {
-      "firstName": "Brad",
-      "lastName": "Traversy",
-      "id": 4
+      "firstName": "Dmytro",
+      "lastName": "Lesyk",
+      "id": 1
     }
   ]
 }
